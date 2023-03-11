@@ -6,6 +6,7 @@
 
 body {
   background: #f5f7fb;
+  min-height: 100vh;
 }
 
 button {
@@ -13,7 +14,7 @@ button {
 }
 
 .app {
-  min-height: 100vh;
+  height: 100vh;
   padding: 20px 75px;
   max-width: 550px;
   min-height: 550px;
